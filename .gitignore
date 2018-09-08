@@ -1,3 +1,10 @@
+/bin/
+/.settings/
+*.prefs
+*.classpath
+*.project
+
+
 # Compiled class file
 *.class
 
